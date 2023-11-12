@@ -33,3 +33,14 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
   513  git status
   514  git add .
   515  git commit -m "agregado de gamma (que tambien es alfa)"
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+  519  echo "Nombre: Francisco" >> beta.txt
+  520  echo "Apellido: Martinez Balian" >> beta.txt
+  522  echo "Hora actual: $(date)" >> beta.txt
+  523  echo "Info de ipconfig" >> beta.txt
+  524  ipconfig >> beta.txt
+  525  git status
+  526  git add .
+  527  git commit -m "agregado de alfa (que tambien es gamma)"
+  528  git push origin Pirolo
