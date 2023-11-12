@@ -13,3 +13,23 @@ BETA debió hacer los siguientes comandos:
   283  git checkout MartinezBalian
   284  git checkout master
   285  git commit -m "Merge entre MartinBalian y master"
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No, no quedaron con los datos actualizados
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+No tuvimos ningun problema para hacer el merge, tuvimos la precaucion de informarnos previamente sobre como se tendria que hacer y lo hicimos correctamente en la primer interaccion
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+  504  git pull origin master
+  505  git checkout Pirolo
+  506  git fetch
+  507  git checkout Pirolo
+  508  echo "Nombre: Francisco" >> beta.txt
+  509  echo "Apellido: Martinez Balian" >> beta.txt
+  510  echo  "Hora actual: $(date)" >> beta.txt
+  511  echo "Info de ipconfig" >> beta.txt
+  512  ipconfig >> beta.txt
+  513  git status
+  514  git add .
+  515  git commit -m "agregado de gamma (que tambien es alfa)"
