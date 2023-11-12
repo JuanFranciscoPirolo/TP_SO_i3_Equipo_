@@ -1,3 +1,5 @@
 GAMMA: Francisco Martinez Balian - IP: 192.168.1.43 - HORA: 16:22
 
 ALFA: Francisco Martinez Balian - IP: 192.168.1.43 - HORA: 16:27
+
+BETA: Juan Francisco Pirolo - IP: 190.195.167.121 - HORA: 16:33
