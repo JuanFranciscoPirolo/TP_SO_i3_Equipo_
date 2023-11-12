@@ -1,0 +1,15 @@
+a. ¿Cómo queda el master después de estos cambios?
+
+Después de los cambios, el master contiene las modificaciones realizadas por GAMMA, ALFA y BETA en el archivo "datos.txt", así como también las adiciones de los archivos CPUGamma.txt, CPUAlfa.txt y CPUBeta.txt.
+
+b. ¿Beta pudo ver todos los cambios que se realizaron?
+Sí, BETA pudo ver todos los cambios realizados por GAMMA y ALFA en el archivo "datos.txt" y las adiciones de los archivos CPUGamma.txt y CPUAlfa.txt.
+
+c. ¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+BETA debió hacer los siguientes comandos:
+
+  281  git checkout master
+  282  git merge MartinezBalian
+  283  git checkout MartinezBalian
+  284  git checkout master
+  285  git commit -m "Merge entre MartinBalian y master"
