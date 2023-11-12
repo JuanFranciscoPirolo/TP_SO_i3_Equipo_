@@ -37,9 +37,11 @@ Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
-Nombre: [Francisco]
-Apellido: [Martinez Balian]
-Informaci√≥n de ipconfig:
+
+Nombre: Francisco
+Apellido: Martinez Balian
+Hora: Sun Nov 12 17:36:47     2023
+Info de ipconfig
 
 Configuraci¢n IP de Windows
 
@@ -69,9 +71,10 @@ Adaptador de LAN inal†mbrica Wi-Fi:
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.43
    M†scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
 Nombre: Francisco
 Apellido: Martinez Balian
-Hora: Sun Nov 12 17:36:47     2023
+Hora actual: Sun Nov 12 17:42:53     2023
 Info de ipconfig
 
 Configuraci¢n IP de Windows
